@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Venture
+Description=Too much purple
+Author=Phob1an
+Copyright=
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.0
+Website=https://www.pling.com/u/phob1an
+Screenshot=preview.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=phobian@tutanota.com
+Theme-Id=Venture
+Theme-API=2.0
