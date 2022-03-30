@@ -72,7 +72,7 @@ Rectangle {
 
             Text {
                 id : lblLoginName
-                text : textConstants.promptUser
+                text : "Insira seu nome de usuário"
                 font.pointSize : 10
                 verticalAlignment : Text.AlignVCenter
                 color : "#e2e2ea"
@@ -111,7 +111,7 @@ Rectangle {
             Text {
                 id : lblLoginPassword
                 bottomPadding : 5
-                text : textConstants.promptPassword
+                text : "Insira sua senha"
                 verticalAlignment : Text.AlignVCenter
                 color : "#e2e2ea"
                 font.pointSize : 10
