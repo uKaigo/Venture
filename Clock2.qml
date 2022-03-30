@@ -49,7 +49,7 @@ Column {
             id : time
             anchors.horizontalCenter : parent.horizontalCenter
             color : container.color
-            text : Qt.formatDateTime(container.dateTime, "HH:MM")
+            text : Qt.formatDateTime(container.dateTime, "HH:MM:ss")
             font.pointSize : 60
             //font.weight : Font.Thin
             horizontalAlignment: Text.AlignHCenter
